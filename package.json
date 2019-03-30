@@ -1,0 +1,23 @@
+{
+  "name": "expressjs-szablony-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarbaraMak85/expressJS-szablony-HTML.git"
+  },
+  "author": "Barbara Makowiec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BarbaraMak85/expressJS-szablony-HTML/issues"
+  },
+  "homepage": "https://github.com/BarbaraMak85/expressJS-szablony-HTML#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  }
+}
